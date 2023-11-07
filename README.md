@@ -6,8 +6,7 @@
     alt="Software Developer" />
 </p>
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi"/>
-	<a href="https://www.linkedin.com/in/dhawalverma2808/"><img src="https://img.shields.io/badge/dhawalverma?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/dhawalverma2808/"><img src="https://img.shields.io/badge/dhawalverma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 	<a href="mailto:dhawalverma2808@gmail.com"><img src="https://img.shields.io/badge/dhawalverma@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
