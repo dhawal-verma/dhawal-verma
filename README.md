@@ -28,12 +28,11 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
 
 - **Cloud Hosting**:
-
-    ![MS Azure](https://img.shields.io/badge/MS%20Azure-%2300599C.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
     
 <br>
@@ -42,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,sqlite,bootstrap,jquery,threejs,git,aws,nginx,discord,docker,firebase,github,linux,md,nodejs,postman,bash,vscode,replit,stackoverflow,devto&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,postgres,figma,graphql,mysql,raspberrypi,tailwind,sqlite,bootstrap,jquery,git,discord,docker,firebase,github,linux,nodejs,postman,bash,vscode,stackoverflow&perline=14" />
   </a>
 </p>
 
